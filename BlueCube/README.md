@@ -6,10 +6,10 @@ I am an Ambient music composer who is fascinated with the history of computer
 music. I have composed many albums of both Ambient and experimental electronic
 music using a variety of synthesizers, samplers and outboard effects, but I
 have had this interest in composing a piece of music that would be created
-entirely in the computer ? no samplers, no analog synths, no external digital
-signal processing (DSP) and no drum machines ? just my computer, a soundcard, a
+entirely in the computer - no samplers, no analog synths, no external digital
+signal processing (DSP) and no drum machines - just my computer, a soundcard, a
 DAT machine and me.  This work would travel a path directly from my computer
-straight to the listener?s ears, mediated only by an invisible layer of bits.
+straight to the listener's ears, mediated only by an invisible layer of bits.
 When this idea first germinated around a year and a half ago, I became more and
 more intrigued with it. My original plan was to use TurboSynth, ProTools and
 Soundhack as some of my tools, but that plan was redirected by a meeting I had
@@ -51,7 +51,7 @@ electronic music: the more synthetic the sound, the more I liked it. My first
 experience of being
 
 transported by electronic music was while sitting in a theater watching the
-film "Forbidden Planet" ? the soundtrack by Louis and Bebe Barron probably
+film "Forbidden Planet" - the soundtrack by Louis and Bebe Barron probably
 shaped my vision of creating a sonic space more than any other experience. As a
 child, most of my exposure to synthetic sounds was through pop music and
 television. In the late 60's, a few television stations nurtured a climate of
@@ -76,7 +76,7 @@ KIM-1 microcomputer could be programmed to behave like a sequencer.  After
 buying a KIM-1, I started studying 6502 assembly language, and after many weeks
 managed to write a crude sequencer. My little sequencer program spit out 8-bit
 words to the input and output (I/O) ports, which were fed to a
-digital-to-analog-converter (DAC) that controlled my synth's oscillators ? this
+digital-to-analog-converter (DAC) that controlled my synth's oscillators - this
 was my first entry into computer music.
 
 I have also been very interested in environmentally altered sounds. I remember
