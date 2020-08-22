@@ -4,7 +4,7 @@ kickdirt.wav: kickdirt.orc kickdirt.sco
 	csound -W -o $@ -d -m 0 kickdirt.orc kickdirt.sco > /dev/null 2> /dev/null
 
 kickdirt.ogg: kickdirt.wav
-	oggenc $<
+	ffmpeg -i $< -acodec libvorbis -q 0 $@
 
 kickdirt.mp3: kickdirt.wav
 	lame -q2 $< $@
