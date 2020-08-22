@@ -17,3 +17,7 @@ There is only one piece of mine here; for the rest I just copied the orchestras
 and scores from the Internet, ran the synthesis with Csound, and recorded the
 resulting sound tracks. For further information on Csound, on the pieces and on
 the composers, search for "Csound Frontpage" on the Internet. 
+
+(*) Except where samples are used: in Nuclear for the four drum sounds and in
+Laugh, which uses three samples of the author laughing which are then
+transformed. 
