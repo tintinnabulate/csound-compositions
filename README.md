@@ -13,10 +13,10 @@ note and a series of parameters for each note to modify the precise sound of
 each. The Csound program reads these two files and creates a sound track that
 can then be played.
 
-There is only one piece of mine here; for the rest I just copied the orchestras
-and scores from the Internet, ran the synthesis with Csound, and recorded the
-resulting sound tracks. For further information on Csound, on the pieces and on
-the composers, search for "Csound Frontpage" on the Internet. 
+For further information on Csound, on the pieces and on the composers, search
+for "Csound Frontpage" on the Internet. 
+
+Also see <https://csound-floss.firebaseapp.com>
 
 (*) Except where samples are used: in Nuclear for the four drum sounds and in
 Laugh, which uses three samples of the author laughing which are then
