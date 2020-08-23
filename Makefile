@@ -1,4 +1,9 @@
-all:
+all: make-all
+
+play-all: make-all
+	ogg123 --list playlist.m3u
+
+make-all:
 	cd bach && make && cd ..
 	cd BlueCube && make && cd ..
 	cd Deserted && make && cd ..
@@ -33,4 +38,5 @@ clean:
 	cd Trapped && make clean && cd ..
 	# cd Unwanted
 	cd Vestige && make clean && cd ..
+
 
