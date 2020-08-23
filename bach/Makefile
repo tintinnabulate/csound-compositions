@@ -1,13 +1,13 @@
-all: bluecube.ogg
+all: bach.ogg
 
-bluecube.wav: bluecube.orc bluecube.sco
-	csound -W -o $@ -d -m 0 bluecube.orc bluecube.sco > /dev/null 2> /dev/null
+bach.wav: bach.orc bach.sco
+	csound -W -o $@ -d -m 0 bach.orc bach.sco > /dev/null 2> /dev/null
 
-bluecube.ogg: bluecube.wav
+bach.ogg: bach.wav
 	ffmpeg -i $< -acodec libvorbis -q 0 $@
 
 clean:
-	rm -f bluecube.wav
+	rm -f bach.wav
 
 mrproper: clean
-	rm -f bluecube.ogg
+	rm -f bach.ogg

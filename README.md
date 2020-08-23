@@ -21,3 +21,5 @@ the composers, search for "Csound Frontpage" on the Internet.
 (*) Except where samples are used: in Nuclear for the four drum sounds and in
 Laugh, which uses three samples of the author laughing which are then
 transformed. 
+
+Note: The composition entitled 'Unwanted' currently doesn't build
